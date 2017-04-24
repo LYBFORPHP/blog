@@ -1,4 +1,4 @@
-## 欢迎来到李耀波的个人播客
+## 欢迎来到李耀波的个人博客
 
 You can use the [editor on GitHub](https://github.com/LYBFORPHP/liyaobo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
