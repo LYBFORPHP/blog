@@ -1,8 +1,6 @@
 ## 欢迎来到李耀波的个人博客
 
-You can use the [editor on GitHub](https://github.com/LYBFORPHP/liyaobo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+不知道什么时候才会有第一篇文章~~
 
 ### Markdown
 
